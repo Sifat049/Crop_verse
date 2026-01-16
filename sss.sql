@@ -175,6 +175,7 @@ INSERT INTO Crop (crop_name, category) VALUES
 SELECT crop_id, crop_name FROM Crop;
 USE cropverse;
 
+
 SELECT listing_id, farmer_id, crop_id, quantity_kg, price_per_kg, status, listed_at
 FROM CropListing
 ORDER BY listing_id DESC
