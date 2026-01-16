@@ -1,5 +1,5 @@
 CREATE DATABASE cropverse;
-USE cropverse;
+
 USE cropverse;
 
 CREATE TABLE Farmer (
