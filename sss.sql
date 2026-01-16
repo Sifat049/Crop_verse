@@ -2,7 +2,6 @@ CREATE DATABASE cropverse;
 
 USE cropverse;
 
-
 CREATE TABLE Farmer (
     farmer_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100) NOT NULL,
